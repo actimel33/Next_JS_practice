@@ -1,0 +1,21 @@
+.nav_container {
+    position: fixed;
+    height: 4rem;
+    left: 0;
+    top: 0;
+    right: 0;
+    background: darkblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav_container a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main_container {
+    padding-top: 2rem;
+    margin-top: 4rem;
+}
